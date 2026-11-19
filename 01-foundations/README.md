@@ -4,7 +4,7 @@
 
 ## Deliverables
 
-- [ ] `concepts.md`: the six ideas in your own words
+- [x] `concepts.md`: the six ideas in your own words (SP 800-63, authN vs authZ, lifecycle and least privilege done; RBAC vs ABAC and segregation of duties still to add)
 - [ ] `identity-model.md`: the fictional company "Acme" (4 departments, ~12 roles, ~8 apps; who needs what, and why)
 - [ ] `rbac_matrix.csv`: columns `user, department, manager, role, app, access_level, status`
 - [ ] `role_catalog` (CSV or Python dict): which roles may access which apps, at what level
